@@ -2,33 +2,36 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Stringy.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Date.playground">
+      location = "group:Autoclosures.playground">
    </FileRef>
    <FileRef
       location = "group:NotifsObser.playground">
    </FileRef>
    <FileRef
+      location = "group:MergeIntervals.playground">
+   </FileRef>
+   <FileRef
       location = "group:Turing.playground">
-   </FileRef>
-   <FileRef
-      location = "group:LiveCode.playground">
-   </FileRef>
-   <FileRef
-      location = "group:StructsFNMotivation.playground">
-   </FileRef>
-   <FileRef
-      location = "group:BinarySearch.playground">
-   </FileRef>
-   <FileRef
-      location = "group:Codility.playground">
    </FileRef>
    <FileRef
       location = "group:SwiftProtocols.playground">
    </FileRef>
    <FileRef
-      location = "group:Autoclosures.playground">
+      location = "group:Date.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Codility.playground">
+   </FileRef>
+   <FileRef
+      location = "group:BinarySearch.playground">
+   </FileRef>
+   <FileRef
+      location = "group:StructsFNMotivation.playground">
+   </FileRef>
+   <FileRef
+      location = "group:URLSession.playground">
+   </FileRef>
+   <FileRef
+      location = "group:LiveCode.playground">
    </FileRef>
 </Workspace>
