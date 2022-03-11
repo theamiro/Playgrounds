@@ -68,3 +68,5 @@ money.formatted(.percent)
 
 4.nextUp
 4.squareRoot()
+
+//var dictionary: Dictionary = [:]
